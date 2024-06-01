@@ -5,7 +5,7 @@ Computer science student with a passion for problem-solving and Development.
 
 *   🌍  I'm based in Belgaum,Karnataka
 *   ✉️  You can contact me at [vinayrajaikar@gmail.com](mailto:vinayrajaikar@gmail.com)
-*   🧠  I'm learning React JS Framework
+*   🧠  Currently I'm learning React JS Framework
 
 ### Skills 
 <p align="left">
