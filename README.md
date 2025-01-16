@@ -5,7 +5,7 @@ Computer science student with a passion for problem-solving and Development.
 
 *   🌍  I'm based in Belgaum,Karnataka
 *   ✉️  You can contact me at [vinayrajaikar@gmail.com](mailto:vinayrajaikar@gmail.com)
-*   🧠  Currently I'm learning NextJS
+*   🛜  Currently I'm learning NextJS
 
 ### Skills 
 <p align="left">
